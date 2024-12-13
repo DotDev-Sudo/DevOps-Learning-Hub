@@ -39,6 +39,7 @@ syllabus-setup/
 ├── Linux/                 # Notes, exercises, and examples for Linux
 ├── Git/                   # Notes, exercises, and examples for Git
 ├── Jenkins/               # Notes, exercises, and examples for Jenkins
+├── Docker/               # Notes, exercises, and examples for Docker
 ├── Ansible/               # Notes, exercises, and examples for Ansible
 ├── Terraform/             # Notes, exercises, and examples for Terraform
 ├── Kubernetes/            # Notes, exercises, and examples for Kubernetes
@@ -73,6 +74,15 @@ syllabus-setup/
 - Creating and managing pipelines
 - Integrating Jenkins with Git, Docker, and other tools
 - Monitoring and troubleshooting builds
+
+### Docker
+- Introduction to Containerization and it's history.
+- Installing and configuring Docker
+- Creating and managing Images and Containers
+- Docker Admnistration
+- Monitoring and troubleshooting docker images
+- Learning more on Dockerfile and Docker-Compose
+- Docker alternatives
 
 ### Ansible
 - Configuration management basics

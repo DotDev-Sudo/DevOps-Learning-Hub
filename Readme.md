@@ -12,6 +12,7 @@ Welcome to the Syllabus Setup for your DevOps Journey! This guide will walk you 
    - [Linux](#linux)
    - [Git](#git)
    - [Jenkins](#jenkins)
+   - [Docker](#Docker)
    - [Ansible](#ansible)
    - [Terraform](#terraform)
    - [Kubernetes](#kubernetes)

@@ -8,7 +8,7 @@ DevOps is a **collaborative approach** that bridges the gap between software dev
 
 - **🌀 Software Development Lifecycle (SDLC):**  
   Understand the stages involved in software development—from inception to deployment and maintenance.  
-  ![Typical SDLC Diagram](#)
+  ![SDLC Diagram](https://media.geeksforgeeks.org/wp-content/uploads/20231220113035/SDLC.jpg)
   
 - **🛠️ Version Control Systems (VCS):**  
   Learn tools like **Git** for tracking code changes, collaborating with teams, and managing versions of your code.
@@ -47,7 +47,6 @@ DevOps is a **collaborative approach** that bridges the gap between software dev
 - **🔄 CI/CD Pipelines:**  
   Understand tools like **Jenkins**, **GitLab CI**, or **CircleCI** to automate software delivery.
   
-  ![SDLC Diagram](https://media.geeksforgeeks.org/wp-content/uploads/20231220113035/SDLC.jpg)
 ---
 
 ## 6️⃣ **Communication and Collaboration**

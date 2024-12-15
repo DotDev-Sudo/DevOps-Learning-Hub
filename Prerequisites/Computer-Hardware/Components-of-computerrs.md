@@ -49,7 +49,7 @@ The **ALU** handles all mathematical calculations and logical operations:
 - **Arithmetic Operations**: Addition, subtraction, multiplication, division.
 - **Logical Operations**: Comparisons (e.g., greater than, less than).
 
-![ALU](https://via.placeholder.com/600x200 "Arithmetic and Logic Unit")
+![ALU](https://images.spiceworks.com/wp-content/uploads/2023/04/24133657/Image-of-ALU.png)
 
 #### 2.2 Control Unit
 
@@ -59,7 +59,7 @@ The **Control Unit** directs the operation of the computer:
 - Decodes and executes instructions.
 - Coordinates the activities of the ALU, memory, and input/output devices.
 
-![Control Unit](https://via.placeholder.com/600x200 "Control Unit")
+![Control Unit](https://media.geeksforgeeks.org/wp-content/uploads/controlunit.png)
 
 #### 2.3 Memory Registers
 
@@ -69,7 +69,7 @@ Registers are small storage locations within the CPU that temporarily hold data 
   - **Accumulator**: Stores intermediate results.
   - **Program Counter (PC)**: Tracks the address of the next instruction.
 
-![Memory Registers](https://via.placeholder.com/600x200 "Memory Registers")
+![Memory Registers](https://media.istockphoto.com/id/1183983523/photo/fast-memory-kit-ddr4-for-pc.jpg?s=2048x2048&w=is&k=20&c=6pGBmn9t-D0UQmjEpP6BD8I5QpFIbRa3cuiKJVSOf1U=)
 
 ---
 
@@ -83,7 +83,7 @@ The **Output Unit** takes processed data from the CPU and presents it in a human
 * **Printer**: Produces hard copies of digital documents.
 * **Speakers**: Outputs sound.
 
-![Output Devices](https://via.placeholder.com/600x200 "Output Devices")
+![Output Devices](https://vuniversity.in/wp-content/uploads/2024/02/Output-devices.png)
 
 ### Key Characteristics:
 
